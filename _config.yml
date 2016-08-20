@@ -1,0 +1,14 @@
+layout_spectrum: 0.5489331304561347
+typography_spectrum: 0.26353982905857265
+color:
+  brandStrength: 0.6788870198652148
+  lightness: 0.25698268692940474
+  saturation: 0.41477780719287694
+  rhythmicContrast: 0.2729170201346278
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: Vancouver Comedy Calendar

@@ -1,4 +1,3 @@
-layout_spectrum: 0.5489331304561347
 typography_spectrum: 0.26353982905857265
 color:
   brandStrength: 0.6788870198652148
@@ -6,9 +5,13 @@ color:
   saturation: 0.41477780719287694
   rhythmicContrast: 0.2729170201346278
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+layout_spectrum: 0.5489331304561347
+author:
+  name: Whatevs
+  email: brilliantorstupid@gmail.com
 name: Vancouver Comedy Calendar
